@@ -1,0 +1,22 @@
+H3
+{
+FONT-SIZE:30;
+FONT-FAMILY:COOPER;
+
+}
+H5
+{
+FONT-FAMILY:VERDANA;
+FONT-COLOR:BLUE;
+BORDER:3PX SOLID GREEN;
+BACKGROUND-COLOR:RED;
+FONT-SIZE:34;
+}
+marquee
+{
+
+direction:left;
+background-color:powderblue;
+
+
+}
